@@ -7,4 +7,4 @@
 
 ** anil@bilgimedya.com.tr **
 
-Demo: canbervinc.com.tr
+Demo: http://canbervinc.com.tr/#kapat
